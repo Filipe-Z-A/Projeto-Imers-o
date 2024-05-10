@@ -1,2 +1,2 @@
-# Projeto-Imers-o
+# Projeto-Imersao
 Bot para aprendizagem de teoria musical
